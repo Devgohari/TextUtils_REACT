@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Devgohari/TextUtils_REACT/static/css/main.c93bd4cb.chunk.css",
+    "main.js": "/Devgohari/TextUtils_REACT/static/js/main.849ea1bc.chunk.js",
+    "main.js.map": "/Devgohari/TextUtils_REACT/static/js/main.849ea1bc.chunk.js.map",
+    "runtime-main.js": "/Devgohari/TextUtils_REACT/static/js/runtime-main.bccd7a61.js",
+    "runtime-main.js.map": "/Devgohari/TextUtils_REACT/static/js/runtime-main.bccd7a61.js.map",
+    "static/js/2.69ce739a.chunk.js": "/Devgohari/TextUtils_REACT/static/js/2.69ce739a.chunk.js",
+    "static/js/2.69ce739a.chunk.js.map": "/Devgohari/TextUtils_REACT/static/js/2.69ce739a.chunk.js.map",
+    "static/js/3.1e95d07e.chunk.js": "/Devgohari/TextUtils_REACT/static/js/3.1e95d07e.chunk.js",
+    "static/js/3.1e95d07e.chunk.js.map": "/Devgohari/TextUtils_REACT/static/js/3.1e95d07e.chunk.js.map",
+    "index.html": "/Devgohari/TextUtils_REACT/index.html",
+    "static/css/main.c93bd4cb.chunk.css.map": "/Devgohari/TextUtils_REACT/static/css/main.c93bd4cb.chunk.css.map",
+    "static/js/2.69ce739a.chunk.js.LICENSE.txt": "/Devgohari/TextUtils_REACT/static/js/2.69ce739a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bccd7a61.js",
+    "static/js/2.69ce739a.chunk.js",
+    "static/css/main.c93bd4cb.chunk.css",
+    "static/js/main.849ea1bc.chunk.js"
+  ]
+}
